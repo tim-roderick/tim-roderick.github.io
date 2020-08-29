@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+sitemap: https://tim-roderick.github.io/sitemap.xml
